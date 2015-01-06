@@ -1,0 +1,10 @@
+F:\Sanjay\Coustomer and Account App\Coustomer and Account App\bin\Debug\Coustomer and Account App.exe.config
+C:\Users\sanjay\Desktop\Coustomer and Account App\Coustomer and Account App\bin\Debug\Coustomer and Account App.exe.config
+C:\Users\sanjay\Desktop\Coustomer and Account App\Coustomer and Account App\obj\Debug\Coustomer and Account App.csprojResolveAssemblyReference.cache
+C:\Users\sanjay\Desktop\Coustomer and Account App\Coustomer and Account App\obj\Debug\Coustomer_and_Account_App.Form1.resources
+C:\Users\sanjay\Desktop\Coustomer and Account App\Coustomer and Account App\obj\Debug\Coustomer_and_Account_App.Properties.Resources.resources
+C:\Users\sanjay\Desktop\Coustomer and Account App\Coustomer and Account App\obj\Debug\Coustomer and Account App.csproj.GenerateResource.Cache
+C:\Users\sanjay\Desktop\Coustomer and Account App\Coustomer and Account App\bin\Debug\Coustomer and Account App.exe
+C:\Users\sanjay\Desktop\Coustomer and Account App\Coustomer and Account App\bin\Debug\Coustomer and Account App.pdb
+C:\Users\sanjay\Desktop\Coustomer and Account App\Coustomer and Account App\obj\Debug\Coustomer and Account App.exe
+C:\Users\sanjay\Desktop\Coustomer and Account App\Coustomer and Account App\obj\Debug\Coustomer and Account App.pdb
